@@ -54,8 +54,16 @@ img {
 }
 
 main {
-	background-color: lightblue;
 	grid-area: 2 / 1 / 3 / 3;
+}
+.mainpage {
+	background-color: lightblue;
+}
+.shoppage {
+	background-color: #ffff99;
+}
+.contactpage {
+	background-color: #999999;
 }
 
 p {
